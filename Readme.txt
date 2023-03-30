@@ -1,0 +1,1 @@
+To run this project put file Invetory.txt and Staff.txt to (C:\)
